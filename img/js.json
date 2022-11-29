@@ -1,0 +1,28 @@
+{
+    "type": "coffee",
+    "beverageInfo": [
+      {
+        "num": "",
+        "name": "",
+        "image": "",
+        "shop": "",
+        "desc": "",
+        // 제품영양정보 : 제품 ml당
+        "quantity": "",
+        // 1회 제공량
+        "once": "",
+        // 나트륨
+        "na": "",
+        // 포화지방
+        "fat": "",
+        // 당류
+        "su": "",
+        // 단백질
+        "pro": "",
+        // 카페인
+        "ca": "",
+        // happy, with, sleepy, blue
+        "feelings": ""
+      }
+    ]
+  }
